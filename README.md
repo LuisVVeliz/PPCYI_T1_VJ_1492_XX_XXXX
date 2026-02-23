@@ -21,5 +21,6 @@ en consola.
 - Cargar archivo XML
 - Consultar vuelo por código
 - Agrupar vuelos por aerolínea
+  ##video youtube https://youtu.be/B9FrB4c9RmU?si=NupKXHV2ZGlg4R7J
 - Ordenar vuelos por duración
 
